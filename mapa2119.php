@@ -95,7 +95,7 @@
             <div class="col s12">
                 <div class="lineaSemestregris contenedor center">
 
-                    <div class="contmateria1">
+                <div class="contmateria1">
                         <div class="margen">
                             <div id="hexagonomargenfondonaranja1">
                             </div>
@@ -106,7 +106,7 @@
                             <div id="hexagonomargenfondogris3">
                             </div>
                         </div>
-                        <a href="Temarios\1 SEMESTRE\Geometría Analítica.pdf" target="_blank" >
+                        <a href="Temarios\1 SEMESTRE\Geometría Analítica.pdf" target="_blank">
                             <div class="materia">
                                 <div class="hoverable">
                                     <div class="nombre">
@@ -116,7 +116,7 @@
                                         <p class="nombre">
                                             GEOMETRÍA ANALÍTICA
                                         </p>
-                                    </div>-
+                                    </div>
                                     <div class="creditos">
                                         <p class="creditos">
                                             HT:4.5 &nbsp;&nbsp;&nbsp;&nbsp;HP:0 <br>
@@ -140,7 +140,7 @@
                             <div id="hexagonomargenfondogris3">
                             </div>
                         </div>
-                        <a download="CÁLCULO DIFERENCIAL E INTEGRAL.pdf" href="Temarios\1 SEMESTRE\Cálculo Diferencial e Integral.pdf">
+                        <a  href="Temarios\1 SEMESTRE\Cálculo Diferencial e Integral.pdf" target="_blank">
                             <div class="materia">
                                 <div class="hoverable">
                                     <div class="nombre">
@@ -173,7 +173,7 @@
                             <div id="hexagonomargenfondogris3">
                             </div>
                         </div>
-                        <a download="ÁLGEBRA.pdf" href="Temarios\1 SEMESTRE\Álgebra.pdf">
+                        <a  href="Temarios\1 SEMESTRE\Álgebra.pdf" target="_blank">
                             <div class="materia">
                                 <div class="hoverable">
                                     <div class="nombre">
@@ -208,7 +208,7 @@
                             <div id="hexagonomargenfondogris3">
                             </div>
                         </div>
-                        <a download="COMPUTADORAS Y PROGRAMACIÓN.pdf" href="Temarios\1 SEMESTRE\Computadoras y Programación.pdf">
+                        <a href="Temarios\1 SEMESTRE\Computadoras y Programación.pdf" target="_blank">
                             <div class="materia">
                                 <div class="hoverable">
                                     <div class="nombre">
@@ -241,7 +241,7 @@
                             <div id="hexagonomargenfondogris3">
                             </div>
                         </div>
-                        <a download="INTRODUCCIÓN A LA INGENIERÍA EN COMPUTACIÓN.pdf" href="Temarios\1 SEMESTRE\Introducción a la Ingeniería en Computación.pdf">
+                        <a href="Temarios\1 SEMESTRE\Introducción a la Ingeniería en Computación.pdf" target="_blank">
                             <div class="materia">
                                 <div class="hoverable">
                                     <div class="nombre">
@@ -271,7 +271,7 @@
                         <br>
                         <br>
                         <div class="contenedortemario">
-                            <span class="temario"><a download="1 SEMESTRE.zip" href="Temarios\1 SEMESTRE.zip">Temario</a></span>
+                            <span class="temario"><a download="1 SEMESTRE.zip" href="Temarios\1 SEMESTRE.zip">Descargar Temario</a></span>
                             <br>
                             <!-- <span class="sinopsis"><a href="#!">Sinopsis</a></span> -->
                         </div>
@@ -310,7 +310,7 @@
                             <div id="hexagonomargenfondonaranja3">
                             </div>
                         </div>
-                        <a download="ÁLGEBRA LINEAL.pdf" href="Temarios\2 SEMESTRE\Álgebra Lineal.pdf">
+                        <a  href="Temarios\2 SEMESTRE\Álgebra Lineal.pdf" target="_blank">
                             <div class="materia">
                                 <div class="hoverable">
                                     <div class="nombre">
@@ -345,7 +345,7 @@
                             <div id="hexagonomargenfondonaranja3">
                             </div>
                         </div>
-                        <a download="CÁLCULO VECTORIAL.pdf" href="Temarios\2 SEMESTRE\Cálculo Vectorial.pdf">
+                        <a href="Temarios\2 SEMESTRE\Cálculo Vectorial.pdf" target="_blank">
                             <div class="materia">
                                 <div class="hoverable">
                                     <div class="nombre">
@@ -380,7 +380,7 @@
                             <div id="hexagonomargenfondonaranja3">
                             </div>
                         </div>
-                        <a download="PROGRAMACIÓN ORIENTADA A OBJETOS.pdf" href="Temarios\2 SEMESTRE\Programación Orientada a Objetos.pdf">
+                        <a href="Temarios\2 SEMESTRE\Programación Orientada a Objetos.pdf" target="_blank">
                             <div class="materia">
                                 <div class="hoverable">
                                     <div class="nombre">
@@ -414,7 +414,7 @@
                             <div id="hexagonomargenfondonaranja3">
                             </div>
                         </div>
-                        <a download="COMUNICACIÓN.pdf" href="Temarios\2 SEMESTRE\Comunicación.pdf">
+                        <a href="Temarios\2 SEMESTRE\Comunicación.pdf" target="_blank">
                             <div class="materia">
                                 <div class="hoverable">
                                     <div class="nombre">
@@ -449,7 +449,7 @@
                             <div id="hexagonomargenfondonaranja3">
                             </div>
                         </div>
-                        <a download="EMPRENDIMIENTO 1.pdf" href="Temarios\2 SEMESTRE\Emprendimiento 1.pdf">
+                        <a href="Temarios\2 SEMESTRE\Emprendimiento 1.pdf" target="_blank">
                             <div class="materia">
                                 <div class="hoverable">
                                     <div class="nombre">
@@ -484,7 +484,7 @@
                             <div id="hexagonomargenfondonaranja3">
                             </div>
                         </div>
-                        <a download="TALLER DE CREATIVIDAD E INNOVACIÓN.pdf" href="Temarios\2 SEMESTRE\Taller de creatividad e innovación.pdf">
+                        <a href="Temarios\2 SEMESTRE\Taller de creatividad e innovación.pdf" target="_blank">
                             <div class="materia">
                                 <div class="hoverable">
                                     <div class="nombre">
@@ -515,7 +515,7 @@
                         <br>
                         <br>
                         <div class="contenedortemario">
-                            <span class="temario"><a download="2 SEMESTRE.zip" href="Temarios\2 SEMESTRE.zip">Temario</a></span>
+                            <span class="temario"><a download="2 SEMESTRE.zip" href="Temarios\2 SEMESTRE.zip">Descargar Temario</a></span>
                             <br>
                             <!-- <span class="sinopsis"><a href="#!">Sinopsis</a></span> -->
                         </div>
@@ -553,7 +553,7 @@
                             <div id="hexagonomargenfondogris3">
                             </div>
                         </div>
-                        <a download="MÉTODOS NUMÉRICOS.pdf" href="Temarios\3 SEMESTRE\Métodos Numéricos.pdf">
+                        <a href="Temarios\3 SEMESTRE\Métodos Numéricos.pdf" target="_blank">
                             <div class="materia">
                                 <div class="hoverable">
                                     <div class="nombre">
@@ -588,7 +588,7 @@
                             <div id="hexagonomargenfondogris3">
                             </div>
                         </div>
-                        <a download="ECUACIONES DIFERENCIALES.pdf" href="Temarios\3 SEMESTRE\Ecuaciones Diferenciales.pdf">
+                        <a href="Temarios\3 SEMESTRE\Ecuaciones Diferenciales.pdf" target="_blank">
                             <div class="materia">
                                 <div class="hoverable">
                                     <div class="nombre">
@@ -623,7 +623,7 @@
                             <div id="hexagonomargenfondogris3">
                             </div>
                         </div>
-                        <a download="ESTRUCTURA DE DATOS.pdf" href="Temarios\3 SEMESTRE\Estructura de Datos.pdf">
+                        <a href="Temarios\3 SEMESTRE\Estructura de Datos.pdf" target="_blank">
                             <div class="materia">
                                 <div class="hoverable">
                                     <div class="nombre">
@@ -658,7 +658,7 @@
                             <div id="hexagonomargenfondogris3">
                             </div>
                         </div>
-                        <a download="EMPRENDIMIENTO 2.pdf" href="Temarios\3 SEMESTRE\Emprendimiento 2.pdf">
+                        <a href="Temarios\3 SEMESTRE\Emprendimiento 2.pdf" target="_blank">
                             <div class="materia">
                                 <div class="hoverable">
                                     <div class="nombre">
@@ -693,7 +693,7 @@
                             <div id="hexagonomargenfondogris3">
                             </div>
                         </div>
-                        <a download="ELECTRICIDAD Y MAGNETISMO (L).pdf" href="Temarios\3 SEMESTRE\Electricidad y Magnetismo (L).pdf">
+                        <a href="Temarios\3 SEMESTRE\Electricidad y Magnetismo (L).pdf" target="_blank">
                             <div class="materia">
                                 <div class="hoverable">
                                     <div class="nombre">
@@ -724,7 +724,7 @@
                         <br>
                         <br>
                         <div class="contenedortemario">
-                            <span class="temario"><a download="3 SEMESTRE.zip" href="Temarios\3 SEMESTRE.zip">Temario</a></span>
+                            <span class="temario"><a download="3 SEMESTRE.zip" href="Temarios\3 SEMESTRE.zip">Descargar Temario</a></span>
                             <br>
                             <!-- <span class="sinopsis"><a href="#!">Sinopsis</a></span> -->
                         </div>
@@ -762,7 +762,7 @@
                             <div id="hexagonomargenfondonaranja3">
                             </div>
                         </div>
-                        <a download="PROBABILIDAD Y ESTADÍSTICA.pdf" href="Temarios\4 SEMESTRE\Probabilidad y Estadística.pdf">
+                        <a href="Temarios\4 SEMESTRE\Probabilidad y Estadística.pdf" target="_blank">
                             <div class="materia">
                                 <div class="hoverable">
                                     <div class="nombre">
@@ -797,7 +797,7 @@
                             <div id="hexagonomargenfondonaranja3">
                             </div>
                         </div>
-                        <a download="MATEMÁTICAS DISCRETAS.pdf" href="Temarios\4 SEMESTRE\Matemáticas Discretas.pdf">
+                        <a href="Temarios\4 SEMESTRE\Matemáticas Discretas.pdf" target="_blank">
                             <div class="materia">
                                 <div class="hoverable">
                                     <div class="nombre">
@@ -831,7 +831,7 @@
                             <div id="hexagonomargenfondonaranja3">
                             </div>
                         </div>
-                        <a download="BASE DE DATOS 1.pdf" href="Temarios\4 SEMESTRE\Bases de Datos 1.pdf">
+                        <a href="Temarios\4 SEMESTRE\Bases de Datos 1.pdf" target="_blank">
                             <div class="materia">
                                 <div class="hoverable">
                                     <div class="nombre">
@@ -866,7 +866,7 @@
                             <div id="hexagonomargenfondonaranja3">
                             </div>
                         </div>
-                        <a download="EMPRENDIMIENTO 3.pdf" href="Temarios\4 SEMESTRE\Emprendimiento 3.pdf">
+                        <a href="Temarios\4 SEMESTRE\Emprendimiento 3.pdf" target="_blank">
                             <div class="materia">
                                 <div class="hoverable">
                                     <div class="nombre">
@@ -901,7 +901,7 @@
                             <div id="hexagonomargenfondonaranja3">
                             </div>
                         </div>
-                        <a download="DISPOSITIVOS ELECTRÓNICOS (L).pdf" href="Temarios\4 SEMESTRE\Dispositivos Electrónicos (L).pdf">
+                        <a href="Temarios\4 SEMESTRE\Dispositivos Electrónicos (L).pdf" target="_blank">
                             <div class="materia">
                                 <div class="hoverable">
                                     <div class="nombre">
@@ -932,7 +932,7 @@
                         <br>
                         <br>
                         <div class="contenedortemario">
-                            <span class="temario"><a download="4 SEMESTRE.zip" href="Temarios\4 SEMESTRE.zip">Temario</a></span>
+                            <span class="temario"><a download="4 SEMESTRE.zip" href="Temarios\4 SEMESTRE.zip">Descargar Temario</a></span>
                             <br>
                             <!-- <span class="sinopsis"><a href="#!">Sinopsis</a></span> -->
                         </div>
@@ -970,7 +970,7 @@
                             <div id="hexagonomargenfondogris3">
                             </div>
                         </div>
-                        <a download="LENGUAJES FORMALES Y AUTÓMATAS.pdf" href="Temarios\5 SEMESTRE\Lenguajes Formales y Autómatas.pdf">
+                        <a href="Temarios\5 SEMESTRE\Lenguajes Formales y Autómatas.pdf" target="_blank">
                             <div class="materia">
                                 <div class="hoverable">
                                     <div class="nombre">
@@ -1003,7 +1003,7 @@
                             <div id="hexagonomargenfondogris3">
                             </div>
                         </div>
-                        <a download="DISEÑO Y ANÁLISIS DE ALGORITMOS.pdf" href="Temarios\5 SEMESTRE\Diseño y Análisis de Algoritmos.pdf">
+                        <a href="Temarios\5 SEMESTRE\Diseño y Análisis de Algoritmos.pdf" target="_blank">
                             <div class="materia">
                                 <div class="hoverable">
                                     <div class="nombre">
@@ -1037,7 +1037,7 @@
                             <div id="hexagonomargenfondogris3">
                             </div>
                         </div>
-                        <a download="PROGRAMACIÓN WEB 1.pdf" href="Temarios\5 SEMESTRE\Programación Web 1.pdf">
+                        <a  href="Temarios\5 SEMESTRE\Programación Web 1.pdf" target="_blank">
                             <div class="materia">
                                 <div class="hoverable">
                                     <div class="nombre">
@@ -1072,7 +1072,7 @@
                             <div id="hexagonomargenfondogris3">
                             </div>
                         </div>
-                        <a download="ADMINISTRACIÓN DE PROYECTOS.pdf" href="Temarios\5 SEMESTRE\Administración de Proyectos.pdf">
+                        <a href="Temarios\5 SEMESTRE\Administración de Proyectos.pdf" target="_blank">
                             <div class="materia">
                                 <div class="hoverable">
                                     <div class="nombre">
@@ -1105,7 +1105,7 @@
                             <div id="hexagonomargenfondogris3">
                             </div>
                         </div>
-                        <a download="DISEÑO LÓGICO (L).pdf" href="Temarios\5 SEMESTRE\Diseño Lógico (L).pdf">
+                        <a href="Temarios\5 SEMESTRE\Diseño Lógico (L).pdf" target="_blank">
                             <div class="materia">
                                 <div class="hoverable">
                                     <div class="nombre">
@@ -1137,7 +1137,7 @@
                         <br>
                         <br>
                         <div class="contenedortemario">
-                            <span class="temario"><a download="5 SEMESTRE.zip" href="Temarios\5 SEMESTRE.zip">Temario</a></span>
+                            <span class="temario"><a download="5 SEMESTRE.zip" href="Temarios\5 SEMESTRE.zip">Descargar Temario</a></span>
                             <br>
                             <!-- <span class="sinopsis"><a href="#!">Sinopsis</a></span> -->
                         </div>
@@ -1175,7 +1175,7 @@
                             <div id="hexagonomargenfondonaranja3">
                             </div>
                         </div>
-                        <a download="COMPILADORES.pdf" href="Temarios\6 SEMESTRE\Compiladores.pdf">
+                        <a href="Temarios\6 SEMESTRE\Compiladores.pdf" target="_blank">
                             <div class="materia">
                                 <div class="hoverable">
                                     <div class="nombre">
@@ -1210,7 +1210,7 @@
                             <div id="hexagonomargenfondonaranja3">
                             </div>
                         </div>
-                        <a download="SISTEMAS OPERATIVOS.pdf" href="Temarios\6 SEMESTRE\Sistemas Operativos.pdf">
+                        <a href="Temarios\6 SEMESTRE\Sistemas Operativos.pdf" target="_blank">
                             <div class="materia">
                                 <div class="hoverable">
                                     <div class="nombre">
@@ -1245,7 +1245,7 @@
                             <div id="hexagonomargenfondonaranja3">
                             </div>
                         </div>
-                        <a download="INGENIERÍA DE SOFTWARE.pdf" href="Temarios\6 SEMESTRE\Ingeniería de Software.pdf">
+                        <a href="Temarios\6 SEMESTRE\Ingeniería de Software.pdf" target="_blank">
                             <div class="materia">
                                 <div class="hoverable">
                                     <div class="nombre">
@@ -1280,7 +1280,7 @@
                             <div id="hexagonomargenfondonaranja3">
                             </div>
                         </div>
-                        <a download="DISEÑO DE SISTEMAS DIGITALES (L).pdf" href="Temarios\6 SEMESTRE\Diseño de Sistemas Digitales (L).pdf">
+                        <a href="Temarios\6 SEMESTRE\Diseño de Sistemas Digitales (L).pdf" target="_blank">
                             <div class="materia">
                                 <div class="hoverable">
                                     <div class="nombre">
@@ -1340,7 +1340,7 @@
                         <br>
                         <br>
                         <div class="contenedortemario">
-                            <span class="temario"><a download="6 SEMESTRE.zip" href="Temarios\6 SEMESTRE.zip">Temario</a></span>
+                            <span class="temario"><a download="6 SEMESTRE.zip" href="Temarios\6 SEMESTRE.zip">Descargar Temario</a></span>
                             <br>
                             <!-- <span class="sinopsis"><a href="#!">Sinopsis</a></span> -->
                         </div>
@@ -1378,7 +1378,7 @@
                             <div id="hexagonomargenfondogris3">
                             </div>
                         </div>
-                        <a download="SISTEMAS DE INFORMACIÓN.pdf" href="Temarios\7 SEMESTRE\Sistemas de Información.pdf">
+                        <a href="Temarios\7 SEMESTRE\Sistemas de Información.pdf" target="_blank">
                             <div class="materia">
                                 <div class="hoverable">
                                     <div class="nombre">
@@ -1413,7 +1413,7 @@
                             <div id="hexagonomargenfondogris3">
                             </div>
                         </div>
-                        <a download="PROGRAMACIÓN WEB 2.pdf" href="Temarios\7 SEMESTRE\Programación Web 2.pdf">
+                        <a href="Temarios\7 SEMESTRE\Programación Web 2.pdf" target="_blank">
                             <div class="materia">
                                 <div class="hoverable">
                                     <div class="nombre">
@@ -1448,7 +1448,7 @@
                             <div id="hexagonomargenfondogris3">
                             </div>
                         </div>
-                        <a download="REDES DE COMPUTADORAS 1 (L).pdf" href="Temarios\7 SEMESTRE\Redes de computadoras 1 (L).pdf">
+                        <a href="Temarios\7 SEMESTRE\Redes de computadoras 1 (L).pdf" target="_blank">
                             <div class="materia">
                                 <div class="hoverable">
                                     <div class="nombre">
@@ -1482,7 +1482,7 @@
                             <div id="hexagonomargenfondogris3">
                             </div>
                         </div>
-                        <a download="MICROPROCESADORES Y MICROCONTROLADORES (L).pdf" href="Temarios\7 SEMESTRE\Microprocesadores y Microcontroladores (L).pdf">
+                        <a href="Temarios\7 SEMESTRE\Microprocesadores y Microcontroladores (L).pdf" target="_blank">
                             <div class="materia">
                                 <div class="hoverable">
                                     <div class="nombre">
@@ -1541,7 +1541,7 @@
                         <br>
                         <br>
                         <div class="contenedortemario">
-                            <span class="temario"><a download="7 SEMESTRE.zip" href="Temarios\7 SEMESTRE.zip">Temario</a></span>
+                            <span class="temario"><a download="7 SEMESTRE.zip" href="Temarios\7 SEMESTRE.zip">Descargar Temario</a></span>
                             <br>
                             <!-- <span class="sinopsis"><a href="#!">Sinopsis</a></span> -->
                         </div>
@@ -1579,7 +1579,7 @@
                             <div id="hexagonomargenfondonaranja3">
                             </div>
                         </div>
-                        <a download="BASE DE DATOS 2.pdf" href="Temarios\8 SEMESTRE\Bases de Datos 2.pdf">
+                        <a href="Temarios\8 SEMESTRE\Bases de Datos 2.pdf" target="_blank">
                             <div class="materia">
                                 <div class="hoverable">
                                     <div class="nombre">
@@ -1614,7 +1614,7 @@
                             <div id="hexagonomargenfondonaranja3">
                             </div>
                         </div>
-                        <a download="PROGRAMACIÓN MÓVIL 1.pdf" href="Temarios\8 SEMESTRE\Programación Móvil 1.pdf">
+                        <a href="Temarios\8 SEMESTRE\Programación Móvil 1.pdf" target="_blank">
                             <div class="materia">
                                 <div class="hoverable">
                                     <div class="nombre">
@@ -1649,7 +1649,7 @@
                             <div id="hexagonomargenfondonaranja3">
                             </div>
                         </div>
-                        <a download="REDES DE COMPUTADORAS 2.pdf" href="Temarios\8 SEMESTRE\Redes de Computadoras 2.pdf">
+                        <a href="Temarios\8 SEMESTRE\Redes de Computadoras 2.pdf" target="_blank">
                             <div class="materia">
                                 <div class="hoverable">
                                     <div class="nombre">
@@ -1683,7 +1683,7 @@
                             <div id="hexagonomargenfondonaranja3">
                             </div>
                         </div>
-                        <a download="HABILIDADES DIRECTIVAS.pdf" href="Temarios\8 SEMESTRE\Habilidades Directivas.pdf">
+                        <a href="Temarios\8 SEMESTRE\Habilidades Directivas.pdf" target="_blank">
                             <div class="materia">
                                 <div class="hoverable">
                                     <div class="nombre">
@@ -1773,7 +1773,7 @@
                         <br>
                         <br>
                         <div class="contenedortemario">
-                            <span class="temario"><a download="8 SEMESTRE.zip" href="Temarios\8 SEMESTRE.zip">Temario</a></span>
+                            <span class="temario"><a download="8 SEMESTRE.zip" href="Temarios\8 SEMESTRE.zip">Descargar Temario</a></span>
                             <br>
                             <!-- <span class="sinopsis"><a href="#!">Sinopsis</a></span> -->
                         </div>
@@ -1812,7 +1812,7 @@
                             <div id="hexagonomargenfondogris3">
                             </div>
                         </div>
-                        <a download="MINERÍA DE DATOS.pdf" href="Temarios\9 SEMESTRE\Minería de Datos.pdf">
+                        <a href="Temarios\9 SEMESTRE\Minería de Datos.pdf" target="_blank">
                             <div class="materia">
                                 <div class="hoverable">
                                     <div class="nombre">
@@ -1847,7 +1847,7 @@
                             <div id="hexagonomargenfondogris3">
                             </div>
                         </div>
-                        <a download="INTELIGENCIA ARTIFICIAL.pdf" href="Temarios\9 SEMESTRE\Inteligencia Artificial.pdf">
+                        <a href="Temarios\9 SEMESTRE\Inteligencia Artificial.pdf" target="_blank">
                             <div class="materia">
                                 <div class="hoverable">
                                     <div class="nombre">
@@ -1882,7 +1882,7 @@
                             <div id="hexagonomargenfondogris3">
                             </div>
                         </div>
-                        <a download="SEGURIDAD INFORMÁTICA.pdf" href="Temarios\9 SEMESTRE\Seguridad Informática.pdf">
+                        <a href="Temarios\9 SEMESTRE\Seguridad Informática.pdf" target="_blank">
                             <div class="materia">
                                 <div class="hoverable">
                                     <div class="nombre">
@@ -1972,7 +1972,7 @@
                         <br>
                         <br>
                         <div class="contenedortemario">
-                            <span class="temario"><a download="9 SEMESTRE.zip" href="Temarios\9 SEMESTRE.zip">Temario</a></span>
+                            <span class="temario"><a download="9 SEMESTRE.zip" href="Temarios\9 SEMESTRE.zip">Descargar Temario</a></span>
                             <br>
                             <!-- <span class="sinopsis"><a href="#!">Sinopsis</a></span> -->
                         </div>
@@ -2086,7 +2086,7 @@
                                 <div id="hexagonomargenfondonaranja3">
                                 </div>
                             </div>
-                            <a download="TEMAS ESPECIALES DE COMPUTACIÓN 1.pdf" href="Temarios\10 SEMESTRE (OPTATIVAS)\Temas Especiales de Computación 1.pdf">
+                            <a href="Temarios\10 SEMESTRE (OPTATIVAS)\Temas Especiales de Computación 1.pdf" target="_blank">
                                 <div class="materia">
                                     <div class="hoverable">
                                         <div class="nombre">
@@ -2119,7 +2119,7 @@
                                 <div id="hexagonomargenfondonaranja3">
                                 </div>
                             </div>
-                            <a download="MOVILIDAD 1.pdf" href="Temarios\10 SEMESTRE (OPTATIVAS)\Movilidad 1.pdf">
+                            <a href="Temarios\10 SEMESTRE (OPTATIVAS)\Movilidad 1.pdf" target="_blank">
                                 <div class="materia">
                                     <div class="hoverable">
                                         <div class="nombre">
@@ -2154,7 +2154,7 @@
                                 <div id="hexagonomargenfondonaranja3">
                                 </div>
                             </div>
-                            <a download="GRAFICACIÓN POR COMPUTADORA.pdf" href="Temarios\10 SEMESTRE (OPTATIVAS)\Graficación por Computadora.pdf">
+                            <a href="Temarios\10 SEMESTRE (OPTATIVAS)\Graficación por Computadora.pdf" target="_blank">
                                 <div class="materia">
                                     <div class="hoverable">
                                         <div class="nombre">
@@ -2206,7 +2206,7 @@
                                 <div id="hexagonomargenfondogris3">
                                 </div>
                             </div>
-                            <a download="TEMAS ESPECIALES DE COMPUTACIÓN 2.pdf" href="Temarios\11 SEMESTRE (OPTATIVAS)\Temas Especiales de Computación 2.pdf">
+                            <a href="Temarios\11 SEMESTRE (OPTATIVAS)\Temas Especiales de Computación 2.pdf" target="_blank">
                                 <div class="materia">
                                     <div class="hoverable">
                                         <div class="nombre">
@@ -2239,7 +2239,7 @@
                                 <div id="hexagonomargenfondonaranja3">
                                 </div>
                             </div>
-                            <a download="MOVILIDAD 2.pdf" href="Temarios\11 SEMESTRE (OPTATIVAS)\Movilidad 2.pdf">
+                            <a href="Temarios\11 SEMESTRE (OPTATIVAS)\Movilidad 2.pdf" target="_blank">
                                 <div class="materia">
                                     <div class="hoverable">
                                         <div class="nombre">
@@ -2274,7 +2274,7 @@
                                 <div id="hexagonomargenfondonaranja3">
                                 </div>
                             </div>
-                            <a download="MODELADO Y SIMULACIÓN.pdf" href="Temarios\11 SEMESTRE (OPTATIVAS)\Modelado y Simulación.pdf">
+                            <a href="Temarios\11 SEMESTRE (OPTATIVAS)\Modelado y Simulación.pdf" target="_blank">
                                 <div class="materia">
                                     <div class="hoverable">
                                         <div class="nombre">
@@ -2309,7 +2309,7 @@
                                 <div id="hexagonomargenfondonaranja3">
                                 </div>
                             </div>
-                            <a download="INSTRUMENTACIÓN Y CONTROL.pdf" href="Temarios\11 SEMESTRE (OPTATIVAS)\Instrumentación y Control.pdf">
+                            <a href="Temarios\11 SEMESTRE (OPTATIVAS)\Instrumentación y Control.pdf" target="_blank">
                                 <div class="materia">
                                     <div class="hoverable">
                                         <div class="nombre">
@@ -2344,7 +2344,7 @@
                                 <div id="hexagonomargenfondonaranja3">
                                 </div>
                             </div>
-                            <a download="ADQUISICIÓN DE DATOS.pdf" href="Temarios\11 SEMESTRE (OPTATIVAS)\Adquisición de Datos.pdf">
+                            <a href="Temarios\11 SEMESTRE (OPTATIVAS)\Adquisición de Datos.pdf" target="_blank">
                                 <div class="materia">
                                     <div class="hoverable">
                                         <div class="nombre">
@@ -2379,7 +2379,7 @@
                                 <div id="hexagonomargenfondonaranja3">
                                 </div>
                             </div>
-                            <a download="PROGRAMACIÓN DE VIDEOJUEGOS 1.pdf" href="Temarios\11 SEMESTRE (OPTATIVAS)\Programación de Videojuegos 1.pdf">
+                            <a href="Temarios\11 SEMESTRE (OPTATIVAS)\Programación de Videojuegos 1.pdf" target="_blank">
                                 <div class="materia">
                                     <div class="hoverable">
                                         <div class="nombre">
@@ -2430,7 +2430,7 @@
                                 <div id="hexagonomargenfondonaranja3">
                                 </div>
                             </div>
-                            <a download="TEMAS ESPECIALES DE COMPUTACIÓN 3.pdf" href="Temarios\12 SEMESTRE (OPTATIVAS)\Temas Especiales de Computación 3.pdf">
+                            <a href="Temarios\12 SEMESTRE (OPTATIVAS)\Temas Especiales de Computación 3.pdf" target="_blank">
                                 <div class="materia">
                                     <div class="hoverable">
                                         <div class="nombre">
@@ -2463,7 +2463,7 @@
                                 <div id="hexagonomargenfondonaranja3">
                                 </div>
                             </div>
-                            <a download="MOVILIDAD 3.pdf" href="Temarios\12 SEMESTRE (OPTATIVAS)\Movilidad 3.pdf">
+                            <a href="Temarios\12 SEMESTRE (OPTATIVAS)\Movilidad 3.pdf" target="_blank">
                                 <div class="materia">
                                     <div class="hoverable">
                                         <div class="nombre">
@@ -2498,7 +2498,7 @@
                                 <div id="hexagonomargenfondonaranja3">
                                 </div>
                             </div>
-                            <a download="PROCESAMIENTO DIGITAL DE IMÁGENES.pdf" href="Temarios\12 SEMESTRE (OPTATIVAS)\Procesamiento Digital de Imágenes.pdf">
+                            <a href="Temarios\12 SEMESTRE (OPTATIVAS)\Procesamiento Digital de Imágenes.pdf" target="_blank">
                                 <div class="materia">
                                     <div class="hoverable">
                                         <div class="nombre">
@@ -2532,7 +2532,7 @@
                                 <div id="hexagonomargenfondonaranja3">
                                 </div>
                             </div>
-                            <a download="ROBÓTICA.pdf" href="Temarios\12 SEMESTRE (OPTATIVAS)\Robótica.pdf">
+                            <a href="Temarios\12 SEMESTRE (OPTATIVAS)\Robótica.pdf" target="_blank">
                                 <div class="materia">
                                     <div class="hoverable">
                                         <div class="nombre">
@@ -2567,7 +2567,7 @@
                                 <div id="hexagonomargenfondonaranja3">
                                 </div>
                             </div>
-                            <a download="PROCESAMIENTO DIGITAL DE SEÑALES.pdf" href="Temarios\12 SEMESTRE (OPTATIVAS)\Procesamiento Digital de Señales.pdf">
+                            <a  href="Temarios\12 SEMESTRE (OPTATIVAS)\Procesamiento Digital de Señales.pdf" target="_blank">
                                 <div class="materia">
                                     <div class="hoverable">
                                         <div class="nombre">
@@ -2601,7 +2601,7 @@
                                 <div id="hexagonomargenfondonaranja3">
                                 </div>
                             </div>
-                            <a download="PROGRAMACIÓN DE VIDEOJUEGOS 2.pdf" href="Temarios\12 SEMESTRE (OPTATIVAS)\Programación de Videojuegos 2.pdf">
+                            <a href="Temarios\12 SEMESTRE (OPTATIVAS)\Programación de Videojuegos 2.pdf" target="_blank">
                                 <div class="materia">
                                     <div class="hoverable">
                                         <div class="nombre">
@@ -2637,7 +2637,7 @@
                                     <div id="hexagonomargenfondonaranja3">
                                     </div>
                                 </div>
-                                <a download="TEMAS ESPECIALES DE COMPUTACIÓN 4.pdf" href="Temarios\12 SEMESTRE (OPTATIVAS)\Temas Especiales de Computación 4.pdf">
+                                <a href="Temarios\12 SEMESTRE (OPTATIVAS)\Temas Especiales de Computación 4.pdf" target="_blank">
                                     <div class="materia">
                                         <div class="hoverable">
                                             <div class="nombre">
@@ -2670,7 +2670,7 @@
                                     <div id="hexagonomargenfondonaranja3">
                                     </div>
                                 </div>
-                                <a download="MOVILIDAD 4.pdf" href="Temarios\12 SEMESTRE (OPTATIVAS)\Movilidad 4.pdf">
+                                <a href="Temarios\12 SEMESTRE (OPTATIVAS)\Movilidad 4.pdf" target="_blank">
                                     <div class="materia">
                                         <div class="hoverable">
                                             <div class="nombre">
@@ -2705,7 +2705,7 @@
                                     <div id="hexagonomargenfondonaranja3">
                                     </div>
                                 </div>
-                                <a download="PROYECTO ESCUELA INDUSTRIA.pdf" href="Temarios\12 SEMESTRE (OPTATIVAS)\Proyecto Escuela Industria.pdf">
+                                <a href="Temarios\12 SEMESTRE (OPTATIVAS)\Proyecto Escuela Industria.pdf" target="_blank">
                                     <div class="materia">
                                         <div class="hoverable">
                                             <div class="nombre">
@@ -2739,7 +2739,7 @@
                                     <div id="hexagonomargenfondonaranja3">
                                     </div>
                                 </div>
-                                <a download="ADMINISTRACIÓN DE SISTEMAS MULTIUSUARIO.pdf" href="Temarios\12 SEMESTRE (OPTATIVAS)\Administración de Sistemas Multiusuario.pdf">
+                                <a href="Temarios\12 SEMESTRE (OPTATIVAS)\Administración de Sistemas Multiusuario.pdf" target="_blank">
                                     <div class="materia">
                                         <div class="hoverable">
                                             <div class="nombre">
@@ -2773,7 +2773,7 @@
                                     <div id="hexagonomargenfondonaranja3">
                                     </div>
                                 </div>
-                                <a download="TEMAS ESPECIALES DE PROGRAMACIÓN 1.pdf" href="Temarios\12 SEMESTRE (OPTATIVAS)\Temas Especiales de Programación 1.pdf">
+                                <a href="Temarios\12 SEMESTRE (OPTATIVAS)\Temas Especiales de Programación 1.pdf" target="_blank">
                                     <div class="materia">
                                         <div class="hoverable">
                                             <div class="nombre">
@@ -2829,7 +2829,7 @@
                                 <div id="hexagonomargenfondogris3">
                                 </div>
                             </div>
-                            <a download="TEMAS ESPECIALES DE COMPUTACIÓN 5.pdf" href="Temarios\13 SEMESTRE (OPTATIVAS)\Temas Especiales de Computación 5.pdf">
+                            <a href="Temarios\13 SEMESTRE (OPTATIVAS)\Temas Especiales de Computación 5.pdf" target="_blank">
                                 <div class="materia">
                                     <div class="hoverable">
                                         <div class="nombre">
@@ -2862,7 +2862,7 @@
                                 <div id="hexagonomargenfondonaranja3">
                                 </div>
                             </div>
-                            <a download="MOVILIDAD 5.pdf" href="Temarios\13 SEMESTRE (OPTATIVAS)\Movilidad 5.pdf">
+                            <a href="Temarios\13 SEMESTRE (OPTATIVAS)\Movilidad 5.pdf" target="_blank">
                                 <div class="materia">
                                     <div class="hoverable">
                                         <div class="nombre">
@@ -2897,7 +2897,7 @@
                                 <div id="hexagonomargenfondonaranja3">
                                 </div>
                             </div>
-                            <a download="RECONOCIMIENTO DE PATRONES.pdf" href="Temarios\13 SEMESTRE (OPTATIVAS)\Reconocimiento de Patrones.pdf">
+                            <a href="Temarios\13 SEMESTRE (OPTATIVAS)\Reconocimiento de Patrones.pdf" target="_blank">
                                 <div class="materia">
                                     <div class="hoverable">
                                         <div class="nombre">
@@ -2932,7 +2932,7 @@
                                 <div id="hexagonomargenfondonaranja3">
                                 </div>
                             </div>
-                            <a download="CÓMPUTO EN LA NUBE.pdf" href="Temarios\13 SEMESTRE (OPTATIVAS)\Cómputo en la Nube.pdf">
+                            <a  href="Temarios\13 SEMESTRE (OPTATIVAS)\Cómputo en la Nube.pdf" target="_blank">
                                 <div class="materia">
                                     <div class="hoverable">
                                         <div class="nombre">
@@ -2967,7 +2967,7 @@
                                 <div id="hexagonomargenfondonaranja3">
                                 </div>
                             </div>
-                            <a download="BIOINGENIERÍA.pdf" href="Temarios\13 SEMESTRE (OPTATIVAS)\Bioingeniería.pdf">
+                            <a href="Temarios\13 SEMESTRE (OPTATIVAS)\Bioingeniería.pdf" target="_blank">
                                 <div class="materia">
                                     <div class="hoverable">
                                         <div class="nombre">
@@ -3002,7 +3002,7 @@
                                 <div id="hexagonomargenfondonaranja3">
                                 </div>
                             </div>
-                            <a download="TEMAS ESPECIALES DE PROGRAMACIÓN 2.pdf" href="Temarios\13 SEMESTRE (OPTATIVAS)\Temas Especiales de Programación 2.pdf">
+                            <a href="Temarios\13 SEMESTRE (OPTATIVAS)\Temas Especiales de Programación 2.pdf" target="_blank">
                                 <div class="materia">
                                     <div class="hoverable">
                                         <div class="nombre">
@@ -3036,7 +3036,7 @@
                                     <div id="hexagonomargenfondogris3">
                                     </div>
                                 </div>
-                                <a download="TEMAS ESPECIALES DE COMPUTACIÓN 6.pdf" href="Temarios\13 SEMESTRE (OPTATIVAS)\Temas Especiales de Computación 6.pdf">
+                                <a href="Temarios\13 SEMESTRE (OPTATIVAS)\Temas Especiales de Computación 6.pdf" target="_blank">
                                     <div class="materia">
                                         <div class="hoverable">
                                             <div class="nombre">
@@ -3068,7 +3068,7 @@
                                     <div id="hexagonomargenfondonaranja3">
                                     </div>
                                 </div>
-                                <a download="MOVILIDAD 6.pdf" href="Temarios\13 SEMESTRE (OPTATIVAS)\Movilidad 6.pdf">
+                                <a href="Temarios\13 SEMESTRE (OPTATIVAS)\Movilidad 6.pdf" target="_blank">
                                     <div class="materia">
                                         <div class="hoverable">
                                             <div class="nombre">
@@ -3103,7 +3103,7 @@
                                     <div id="hexagonomargenfondonaranja3">
                                     </div>
                                 </div>
-                                <a download="VISUALIZACIÓN.pdf" href="Temarios\13 SEMESTRE (OPTATIVAS)\Visualización.pdf">
+                                <a href="Temarios\13 SEMESTRE (OPTATIVAS)\Visualización.pdf" target="_blank">
                                     <div class="materia">
                                         <div class="hoverable">
                                             <div class="nombre">
@@ -3138,7 +3138,7 @@
                                     <div id="hexagonomargenfondonaranja3">
                                     </div>
                                 </div>
-                                <a download="CÓMPUTO DISTRIBUIDO Y PARALELO.pdf" href="Temarios\13 SEMESTRE (OPTATIVAS)\Cómputo Distribuido y Paralelo.pdf">
+                                <a href="Temarios\13 SEMESTRE (OPTATIVAS)\Cómputo Distribuido y Paralelo.pdf" target="_blank">
                                     <div class="materia">
                                         <div class="hoverable">
                                             <div class="nombre">
@@ -3172,7 +3172,7 @@
                                     <div id="hexagonomargenfondonaranja3">
                                     </div>
                                 </div>
-                                <a download="INTERNET DE LAS COSAS.pdf" href="Temarios\13 SEMESTRE (OPTATIVAS)\Internet de las Cosas.pdf">
+                                <a href="Temarios\13 SEMESTRE (OPTATIVAS)\Internet de las Cosas.pdf" target="_blank">
                                     <div class="materia">
                                         <div class="hoverable">
                                             <div class="nombre">
@@ -3207,7 +3207,7 @@
                                     <div id="hexagonomargenfondonaranja3">
                                     </div>
                                 </div>
-                                <a download="TEMAS ESPECIALES DE BASE DE DATOS.pdf" href="Temarios\13 SEMESTRE (OPTATIVAS)\Temas Especiales de Bases de Datos.pdf">
+                                <a  href="Temarios\13 SEMESTRE (OPTATIVAS)\Temas Especiales de Bases de Datos.pdf" target="_blank">
                                     <div class="materia">
                                         <div class="hoverable">
                                             <div class="nombre">
@@ -3244,7 +3244,7 @@
                                     <div id="hexagonomargenfondogris3">
                                     </div>
                                 </div>
-                                <a download="SEMINARIO INGENIERÍA EN COMPUTACIÓN.pdf" href="Temarios\13 SEMESTRE (OPTATIVAS)\Seminario de Ingeniería en Computación.pdf">
+                                <a href="Temarios\13 SEMESTRE (OPTATIVAS)\Seminario de Ingeniería en Computación.pdf" target="_blank">
                                     <div class="materia">
                                         <div class="hoverable">
                                             <div class="nombre">
@@ -3277,7 +3277,7 @@
                                     <div id="hexagonomargenfondonaranja3">
                                     </div>
                                 </div>
-                                <a download="VINCULACIÓN EMPRESARIAL.pdf" href="Temarios\13 SEMESTRE (OPTATIVAS)\Vinculación empresarial.pdf">
+                                <a href="Temarios\13 SEMESTRE (OPTATIVAS)\Vinculación empresarial.pdf" target="_blank">
                                     <div class="materia">
                                         <div class="hoverable">
                                             <div class="nombre">
@@ -3312,7 +3312,7 @@
                                     <div id="hexagonomargenfondonaranja3">
                                     </div>
                                 </div>
-                                <a download="TEMAS ESPECIALES DE REDES.pdf" href="Temarios\13 SEMESTRE (OPTATIVAS)\Temas Especiales de Redes.pdf">
+                                <a href="Temarios\13 SEMESTRE (OPTATIVAS)\Temas Especiales de Redes.pdf" target="_blank">
                                     <div class="materia">
                                         <div class="hoverable">
                                             <div class="nombre">
@@ -3346,7 +3346,7 @@
                                     <div id="hexagonomargenfondonaranja3">
                                     </div>
                                 </div>
-                                <a download="TEMAS ESPECIALES DE SEGURIDAD INFORMÁTICA.pdf" href="Temarios\13 SEMESTRE (OPTATIVAS)\Temas Especiales de Seguridad Informática.pdf">
+                                <a href="Temarios\13 SEMESTRE (OPTATIVAS)\Temas Especiales de Seguridad Informática.pdf" target="_blank">
                                     <div class="materia">
                                         <div class="hoverable">
                                             <div class="nombre">
@@ -3379,7 +3379,7 @@
                                     <div id="hexagonomargenfondonaranja3">
                                     </div>
                                 </div>
-                                <a download="TEMAS ESPECIALES DE HARDWARE.pdf" href="Temarios\13 SEMESTRE (OPTATIVAS)\Temas Especiales de Hardware.pdf">
+                                <a  href="Temarios\13 SEMESTRE (OPTATIVAS)\Temas Especiales de Hardware.pdf" target="_blank">
                                     <div class="materia">
                                         <div class="hoverable">
                                             <div class="nombre">
@@ -3413,7 +3413,7 @@
                                     <div id="hexagonomargenfondonaranja3">
                                     </div>
                                 </div>
-                                <a download="ANÁLISIS DE MACRODATOS.pdf" href="Temarios\13 SEMESTRE (OPTATIVAS)\Análisis de Macrodatos.pdf">
+                                <a href="Temarios\13 SEMESTRE (OPTATIVAS)\Análisis de Macrodatos.pdf" target="_blank">
                                     <div class="materia">
                                         <div class="hoverable">
                                             <div class="nombre">
@@ -3451,7 +3451,7 @@
                                     <div id="hexagonomargenfondonaranja3">
                                     </div>
                                 </div>
-                                <a download="APRENDIZAJE AUTOMÁTICO.pdf" href="Temarios\13 SEMESTRE (OPTATIVAS)\Aprendizaje Automático.pdf">
+                                <a href="Temarios\13 SEMESTRE (OPTATIVAS)\Aprendizaje Automático.pdf" target="_blank">
                                     <div class="materia">
                                         <div class="hoverable">
                                             <div class="nombre">
@@ -3486,7 +3486,7 @@
                                     <div id="hexagonomargenfondonaranja3">
                                     </div>
                                 </div>
-                                <a download="SISTEMAS EXPERTOS.pdf" href="Temarios\13 SEMESTRE (OPTATIVAS)\Sistemas Expertos.pdf">
+                                <a href="Temarios\13 SEMESTRE (OPTATIVAS)\Sistemas Expertos.pdf" target="_blank">
                                     <div class="materia">
                                         <div class="hoverable">
                                             <div class="nombre">
@@ -3521,7 +3521,7 @@
                                     <div id="hexagonomargenfondonaranja3">
                                     </div>
                                 </div>
-                                <a download="PROGRAMACIÓN MÓVIL 2.pdf" href="Temarios\13 SEMESTRE (OPTATIVAS)\Programación Móvil 2.pdf">
+                                <a href="Temarios\13 SEMESTRE (OPTATIVAS)\Programación Móvil 2.pdf" target="_blank">
                                     <div class="materia">
                                         <div class="hoverable">
                                             <div class="nombre">
@@ -3712,7 +3712,7 @@
                     <div id="movilhexagonomargenfondogris3">
                     </div>
                 </div>
-                <a download="GEOMETRÍA ANALÍTICA.pdf" href="Temarios\1 SEMESTRE\Geometría Analítica.pdf">
+                <a href="Temarios\1 SEMESTRE\Geometría Analítica.pdf" target="_blank">
                     <div class="movilmateria">
                         <div class="hoverable">
                             <div class="movilnombre">
@@ -3745,7 +3745,7 @@
                     <div id="movilhexagonomargenfondogris3">
                     </div>
                 </div>
-                <a download="CÁLCULO DIFERENCIAL E INTEGRAL.pdf" href="Temarios\1 SEMESTRE\Cálculo Diferencial e Integral.pdf">
+                <a href="Temarios\1 SEMESTRE\Cálculo Diferencial e Integral.pdf" target="_blank">
                     <div class="movilmateria">
                         <div class="hoverable">
                             <div class="movilnombre">
@@ -3778,7 +3778,7 @@
                     <div id="movilhexagonomargenfondogris3">
                     </div>
                 </div>
-                <a download="ÁLGEBRA.pdf" href="Temarios\1 SEMESTRE\Álgebra.pdf">
+                <a href="Temarios\1 SEMESTRE\Álgebra.pdf" target="_blank">
                     <div class="movilmateria">
                         <div class="hoverable">
                             <div class="movilnombre">
@@ -3813,7 +3813,7 @@
                     <div id="movilhexagonomargenfondogris3">
                     </div>
                 </div>
-                <a download="COMPUTADORAS Y PROGRAMACIÓN.pdf" href="Temarios\1 SEMESTRE\Computadoras y Programación.pdf">
+                <a href="Temarios\1 SEMESTRE\Computadoras y Programación.pdf" target="_blank">
                     <div class="movilmateria">
                         <div class="hoverable">
                             <div class="movilnombre">
@@ -3847,7 +3847,7 @@
                     <div id="movilhexagonomargenfondogris3">
                     </div>
                 </div>
-                <a download="INTRODUCCIÓN A LA INGENIERIA EN COMPUTACIÓN.pdf" href="Temarios\1 SEMESTRE\Introducción a la Ingeniería en Computación.pdf">
+                <a href="Temarios\1 SEMESTRE\Introducción a la Ingeniería en Computación.pdf" target="_blank">
                     <div class="movilmateria">
                         <div class="hoverable">
                             <div class="movilnombre">
@@ -3876,7 +3876,7 @@
                 <br>
                 <br>
                 <div class="movilcontenedortemario">
-                    <span class="temario"><a download="1 SEMESTRE.zip" href="Temarios\1 SEMESTRE.zip">Temario</a></span>
+                    <span class="temario"><a download="1 SEMESTRE.zip" href="Temarios\1 SEMESTRE.zip">Descargar Temario</a></span>
                     <br>
                     <!-- <span class="sinopsis"><a href="#!">Sinopsis</a></span> -->
                 </div>
@@ -3916,7 +3916,7 @@
                     <div id="movilhexagonomargenfondonaranja3">
                     </div>
                 </div>
-                <a download="ÁLGEBRA LINEAL.pdf" href="Temarios\2 SEMESTRE\Álgebra Lineal.pdf">
+                <a href="Temarios\2 SEMESTRE\Álgebra Lineal.pdf" target="_blank">
                     <div class="movilmateria">
                         <div class="hoverable">
                             <div class="movilnombre">
@@ -3950,7 +3950,7 @@
                     <div id="movilhexagonomargenfondonaranja3">
                     </div>
                 </div>
-                <a download="CÁLCULO VECTORIAL.pdf" href="Temarios\2 SEMESTRE\Cálculo Vectorial.pdf">
+                <a href="Temarios\2 SEMESTRE\Cálculo Vectorial.pdf" target="_blank">
                     <div class="movilmateria">
                         <div class="hoverable">
                             <div class="movilnombre">
@@ -3984,7 +3984,7 @@
                     <div id="movilhexagonomargenfondonaranja3">
                     </div>
                 </div>
-                <a download="PROGRAMACIÓN ORIENTADA A OBJETOS.pdf" href="Temarios\2 SEMESTRE\Programación Orientada a Objetos.pdf">
+                <a href="Temarios\2 SEMESTRE\Programación Orientada a Objetos.pdf" target="_blank">
                     <div class="movilmateria">
                         <div class="hoverable">
                             <div class="movilnombre">
@@ -4017,7 +4017,7 @@
                     <div id="movilhexagonomargenfondonaranja3">
                     </div>
                 </div>
-                <a download="COMUNICACIÓN.pdf" href="Temarios\2 SEMESTRE\Comunicación.pdf">
+                <a href="Temarios\2 SEMESTRE\Comunicación.pdf" target="_blank">
                     <div class="movilmateria">
                         <div class="hoverable">
                             <div class="movilnombre">
@@ -4052,7 +4052,7 @@
                     <div id="movilhexagonomargenfondonaranja3">
                     </div>
                 </div>
-                <a download="EMPRENDIMIENTO 1.pdf" href="Temarios\2 SEMESTRE\Emprendimiento 1.pdf">
+                <a href="Temarios\2 SEMESTRE\Emprendimiento 1.pdf" target="_blank">
                     <div class="movilmateria">
                         <div class="hoverable">
                             <div class="movilnombre">
@@ -4087,7 +4087,7 @@
                     <div id="movilhexagonomargenfondonaranja3">
                     </div>
                 </div>
-                <a download="TALLER DE CREATIVIDAD E INNOVACIÓN.pdf" href="Temarios\2 SEMESTRE\Taller de creatividad e innovación.pdf">
+                <a href="Temarios\2 SEMESTRE\Taller de creatividad e innovación.pdf" target="_blank">
                     <div class="movilmateria">
                         <div class="hoverable">
                             <div class="movilnombre">
@@ -4115,7 +4115,7 @@
                 <br>
                 <br>
                 <div class="movilcontenedortemario">
-                    <span class="temario"><a download="2 SEMESTRE.zip" href="Temarios\2 SEMESTRE.zip">Temario</a></span>
+                    <span class="temario"><a download="2 SEMESTRE.zip" href="Temarios\2 SEMESTRE.zip">Descargar Temario</a></span>
                     <br>
                     <!-- <span class="sinopsis"><a href="#!">Sinopsis</a></span> -->
                 </div>
@@ -4155,7 +4155,7 @@
                     <div id="movilhexagonomargenfondogris3">
                     </div>
                 </div>
-                <a download="MÉTODOS NUMÉRICOS.pdf" href="Temarios\3 SEMESTRE\Métodos Numéricos.pdf">
+                <a href="Temarios\3 SEMESTRE\Métodos Numéricos.pdf" target="_blank">
                     <div class="movilmateria">
                         <div class="hoverable">
                             <div class="movilnombre">
@@ -4190,7 +4190,7 @@
                     <div id="movilhexagonomargenfondogris3">
                     </div>
                 </div>
-                <a download="ECUACIONES DIFERENCIALES.pdf" href="Temarios\3 SEMESTRE\Ecuaciones Diferenciales.pdf">
+                <a href="Temarios\3 SEMESTRE\Ecuaciones Diferenciales.pdf" target="_blank">
                     <div class="movilmateria">
                         <div class="hoverable">
                             <div class="movilnombre">
@@ -4224,7 +4224,7 @@
                     <div id="movilhexagonomargenfondogris3">
                     </div>
                 </div>
-                <a download="ESTRUCTURA DE DATOS.pdf" href="Temarios\3 SEMESTRE\Estructura de Datos.pdf">
+                <a href="Temarios\3 SEMESTRE\Estructura de Datos.pdf" target="_blank">
                     <div class="movilmateria">
                         <div class="hoverable">
                             <div class="movilnombre">
@@ -4258,7 +4258,7 @@
                     <div id="movilhexagonomargenfondogris3">
                     </div>
                 </div>
-                <a download="EMPRENDIMIENTO 2.pdf" href="Temarios\3 SEMESTRE\Emprendimiento 2.pdf">
+                <a href="Temarios\3 SEMESTRE\Emprendimiento 2.pdf" target="_blank">
                     <div class="movilmateria">
                         <div class="hoverable">
                             <div class="movilnombre">
@@ -4292,7 +4292,7 @@
                     <div id="movilhexagonomargenfondogris3">
                     </div>
                 </div>
-                <a download="ELECTRICIDAD Y MAGNETISMO (L).pdf" href="Temarios\3 SEMESTRE\Electricidad y Magnetismo (L).pdf">
+                <a href="Temarios\3 SEMESTRE\Electricidad y Magnetismo (L).pdf" target="_blank">
                     <div class="movilmateria">
                         <div class="hoverable">
                             <div class="movilnombre">
@@ -4322,7 +4322,7 @@
                 <br>
                 <br>
                 <div class="movilcontenedortemario">
-                    <span class="temario"><a download="3 SEMESTRE.zip" href="Temarios\3 SEMESTRE.zip">Temario</a></span>
+                    <span class="temario"><a download="3 SEMESTRE.zip" href="Temarios\3 SEMESTRE.zip">Descargar Temario</a></span>
                     <br>
                     <!-- <span class="sinopsis"><a href="#!">Sinopsis</a></span> -->
                 </div>
@@ -4361,7 +4361,7 @@
                     <div id="movilhexagonomargenfondonaranja3">
                     </div>
                 </div>
-                <a download="PROBABILIDAD Y ESTADÍSTICA.pdf" href="Temarios\4 SEMESTRE\Probabilidad y Estadística.pdf">
+                <a href="Temarios\4 SEMESTRE\Probabilidad y Estadística.pdf" target="_blank">
                     <div class="movilmateria">
                         <div class="hoverable">
                             <div class="movilnombre">
@@ -4395,7 +4395,7 @@
                     <div id="movilhexagonomargenfondonaranja3">
                     </div>
                 </div>
-                <a download="MATEMÁTICAS DISCRETAS.pdf" href="Temarios\4 SEMESTRE\Matemáticas Discretas.pdf">
+                <a href="Temarios\4 SEMESTRE\Matemáticas Discretas.pdf" target="_blank">
                     <div class="movilmateria">
                         <div class="hoverable">
                             <div class="movilnombre">
@@ -4429,7 +4429,7 @@
                     <div id="movilhexagonomargenfondonaranja3">
                     </div>
                 </div>
-                <a download="BASE DE DATOS 1.pdf" href="Temarios\4 SEMESTRE\Bases de Datos 1.pdf">
+                <a href="Temarios\4 SEMESTRE\Bases de Datos 1.pdf" target="_blank">
                     <div class="movilmateria">
                         <div class="hoverable">
                             <div class="movilnombre">
@@ -4464,7 +4464,7 @@
                     <div id="movilhexagonomargenfondonaranja3">
                     </div>
                 </div>
-                <a download="EMPRENDIMIENTO 3.pdf" href="Temarios\4 SEMESTRE\Emprendimiento 3.pdf">
+                <a href="Temarios\4 SEMESTRE\Emprendimiento 3.pdf" target="_blank">
                     <div class="movilmateria">
                         <div class="hoverable">
                             <div class="movilnombre">
@@ -4498,7 +4498,7 @@
                     <div id="movilhexagonomargenfondonaranja3">
                     </div>
                 </div>
-                <a download="DISPOSITIVOS ELECTRÓNICOS (L).pdf" href="Temarios\4 SEMESTRE\Dispositivos Electrónicos (L).pdf">
+                <a href="Temarios\4 SEMESTRE\Dispositivos Electrónicos (L).pdf" target="_blank">
                     <div class="movilmateria">
                         <div class="hoverable">
                             <div class="movilnombre">
@@ -4527,7 +4527,7 @@
                 <br>
                 <br>
                 <div class="movilcontenedortemario">
-                    <span class="temario"><a download="4 SEMESTRE.zip" href="Temarios\4 SEMESTRE.zip">Temario</a></span>
+                    <span class="temario"><a download="4 SEMESTRE.zip" href="Temarios\4 SEMESTRE.zip">Descargar Temario</a></span>
                     <br>
                     <!-- <span class="sinopsis"><a href="#!">Sinopsis</a></span> -->
                 </div>
@@ -4566,7 +4566,7 @@
                     <div id="movilhexagonomargenfondogris3">
                     </div>
                 </div>
-                <a download="LENGUAJES FORMALES Y AUTÓMATAS.pdf" href="Temarios\5 SEMESTRE\Lenguajes Formales y Autómatas.pdf">
+                <a href="Temarios\5 SEMESTRE\Lenguajes Formales y Autómatas.pdf" target="_blank">
                     <div class="movilmateria">
                         <div class="hoverable">
                             <div class="movilnombre">
@@ -4599,7 +4599,7 @@
                     <div id="movilhexagonomargenfondogris3">
                     </div>
                 </div>
-                <a download="DISEÑO Y ANÁLISIS DE ALGORITMOS.pdf" href="Temarios\5 SEMESTRE\Diseño y Análisis de Algoritmos.pdf">
+                <a href="Temarios\5 SEMESTRE\Diseño y Análisis de Algoritmos.pdf" target="_blank">
                     <div class="movilmateria">
                         <div class="hoverable">
                             <div class="movilnombre">
@@ -4632,7 +4632,7 @@
                     <div id="movilhexagonomargenfondogris3">
                     </div>
                 </div>
-                <a download="PROGRAMACIÓN WEB 1.pdf" href="Temarios\5 SEMESTRE\Programación Web 1.pdf">
+                <a href="Temarios\5 SEMESTRE\Programación Web 1.pdf" target="_blank">
                     <div class="movilmateria">
                         <div class="hoverable">
                             <div class="movilnombre">
@@ -4666,7 +4666,7 @@
                     <div id="movilhexagonomargenfondogris3">
                     </div>
                 </div>
-                <a download="ADMINISTRACIÓN DE PROYECTOS.pdf" href="Temarios\5 SEMESTRE\Administración de Proyectos.pdf">
+                <a href="Temarios\5 SEMESTRE\Administración de Proyectos.pdf" target="_blank">
                     <div class="movilmateria">
                         <div class="hoverable">
                             <div class="movilnombre">
@@ -4700,7 +4700,7 @@
                     <div id="movilhexagonomargenfondogris3">
                     </div>
                 </div>
-                <a download="DISEÑO LÓGICO (L).pdf" href="Temarios\5 SEMESTRE\Diseño Lógico (L).pdf">
+                <a href="Temarios\5 SEMESTRE\Diseño Lógico (L).pdf" target="_blank">
                     <div class="movilmateria">
                         <div class="hoverable">
                             <div class="movilnombre">
@@ -4730,7 +4730,7 @@
                 <br>
                 <br>
                 <div class="movilcontenedortemario">
-                    <span class="temario"><a download="5 SEMESTRE.zip" href="Temarios\5 SEMESTRE.zip">Temario</a></span>
+                    <span class="temario"><a download="5 SEMESTRE.zip" href="Temarios\5 SEMESTRE.zip">Descargar Temario</a></span>
                     <br>
                     <!-- <span class="sinopsis"><a href="#!">Sinopsis</a></span> -->
                 </div>
@@ -4769,7 +4769,7 @@
                     <div id="movilhexagonomargenfondonaranja3">
                     </div>
                 </div>
-                <a download="COMPILADORES.pdf" href="Temarios\6 SEMESTRE\Compiladores.pdf">
+                <a href="Temarios\6 SEMESTRE\Compiladores.pdf" target="_blank">
                     <div class="movilmateria">
                         <div class="hoverable">
                             <div class="movilnombre">
@@ -4804,7 +4804,7 @@
                     <div id="movilhexagonomargenfondonaranja3">
                     </div>
                 </div>
-                <a download="SISTEMAS OPERATIVOS.pdf" href="Temarios\6 SEMESTRE\Sistemas Operativos.pdf">
+                <a href="Temarios\6 SEMESTRE\Sistemas Operativos.pdf" target="_blank">
                     <div class="movilmateria">
                         <div class="hoverable">
                             <div class="movilnombre">
@@ -4838,7 +4838,7 @@
                     <div id="movilhexagonomargenfondonaranja3">
                     </div>
                 </div>
-                <a download="INGENIERÍA DE SOFTWARE.pdf" href="Temarios\6 SEMESTRE\Ingeniería de Software.pdf">
+                <a href="Temarios\6 SEMESTRE\Ingeniería de Software.pdf" target="_blank">
                     <div class="movilmateria">
                         <div class="hoverable">
                             <div class="movilnombre">
@@ -4872,7 +4872,7 @@
                     <div id="movilhexagonomargenfondonaranja3">
                     </div>
                 </div>
-                <a download="DISEÑO DE SISTEMAS DIGITALES (L).pdf" href="Temarios\6 SEMESTRE\Diseño de Sistemas Digitales (L).pdf">
+                <a href="Temarios\6 SEMESTRE\Diseño de Sistemas Digitales (L).pdf" target="_blank">
                     <div class="movilmateria">
                         <div class="hoverable">
                             <div class="movilnombre">
@@ -4929,7 +4929,7 @@
                 <br>
                 <br>
                 <div class="movilcontenedortemario">
-                    <span class="temario"><a download="6 SEMESTRE.zip" href="Temarios\6 SEMESTRE.zip">Temario</a></span>
+                    <span class="temario"><a download="6 SEMESTRE.zip" href="Temarios\6 SEMESTRE.zip">Descargar Temario</a></span>
                     <br>
                     <!-- <span class="sinopsis"><a href="#!">Sinopsis</a></span> -->
                 </div>
@@ -4968,7 +4968,7 @@
                     <div id="movilhexagonomargenfondogris3">
                     </div>
                 </div>
-                <a download="SISTEMAS DE INFORMACIÓN.pdf" href="Temarios\7 SEMESTRE\Sistemas de Información.pdf">
+                <a href="Temarios\7 SEMESTRE\Sistemas de Información.pdf" target="_blank">
                     <div class="movilmateria">
                         <div class="hoverable">
                             <div class="movilnombre">
@@ -5002,7 +5002,7 @@
                     <div id="movilhexagonomargenfondogris3">
                     </div>
                 </div>
-                <a download="PROGRAMACIÓN WEB 2.pdf" href="Temarios\7 SEMESTRE\Programación Web 2.pdf">
+                <a href="Temarios\7 SEMESTRE\Programación Web 2.pdf" target="_blank">
                     <div class="movilmateria">
                         <div class="hoverable">
                             <div class="movilnombre">
@@ -5036,7 +5036,7 @@
                     <div id="movilhexagonomargenfondogris3">
                     </div>
                 </div>
-                <a download="REDES DE COMPUTADORAS 1 (L).pdf" href="Temarios\7 SEMESTRE\Redes de computadoras 1 (L).pdf">
+                <a href="Temarios\7 SEMESTRE\Redes de computadoras 1 (L).pdf" target="_blank">
                     <div class="movilmateria">
                         <div class="hoverable">
                             <div class="movilnombre">
@@ -5069,7 +5069,7 @@
                     <div id="movilhexagonomargenfondogris3">
                     </div>
                 </div>
-                <a download="MICROPROCESADORES Y MICROCONTROLADORES (L).pdf" href="Temarios\7 SEMESTRE\Microprocesadores y Microcontroladores (L).pdf">
+                <a href="Temarios\7 SEMESTRE\Microprocesadores y Microcontroladores (L).pdf" target="_blank">
                     <div class="movilmateria">
                         <div class="hoverable">
                             <div class="movilnombre">
@@ -5125,7 +5125,7 @@
                 <br>
                 <br>
                 <div class="movilcontenedortemario">
-                    <span class="temario"><a download="7 SEMESTRE.zip" href="Temarios\7 SEMESTRE.zip">Temario</a></span>
+                    <span class="temario"><a download="7 SEMESTRE.zip" href="Temarios\7 SEMESTRE.zip">Descargar Temario</a></span>
                     <br>
                     <!-- <span class="sinopsis"><a href="#!">Sinopsis</a></span> -->
                 </div>
@@ -5164,7 +5164,7 @@
                     <div id="movilhexagonomargenfondonaranja3">
                     </div>
                 </div>
-                <a download="BASE DE DATOS 2.pdf" href="Temarios\8 SEMESTRE\Bases de Datos 2.pdf">
+                <a href="Temarios\8 SEMESTRE\Bases de Datos 2.pdf" target="_blank">
                     <div class="movilmateria">
                         <div class="hoverable">
                             <div class="movilnombre">
@@ -5199,7 +5199,7 @@
                     <div id="movilhexagonomargenfondonaranja3">
                     </div>
                 </div>
-                <a download="PROGRAMACIÓN MÓVIL 1.pdf" href="Temarios\8 SEMESTRE\Programación Móvil 1.pdf">
+                <a href="Temarios\8 SEMESTRE\Programación Móvil 1.pdf" target="_blank">
                     <div class="movilmateria">
                         <div class="hoverable">
                             <div class="movilnombre">
@@ -5233,7 +5233,7 @@
                     <div id="movilhexagonomargenfondonaranja3">
                     </div>
                 </div>
-                <a download="REDES DE COMPUTADORAS 2.pdf" href="Temarios\8 SEMESTRE\Redes de Computadoras 2.pdf">
+                <a href="Temarios\8 SEMESTRE\Redes de Computadoras 2.pdf" target="_blank">
                     <div class="movilmateria">
                         <div class="hoverable">
                             <div class="movilnombre">
@@ -5266,7 +5266,7 @@
                     <div id="movilhexagonomargenfondonaranja3">
                     </div>
                 </div>
-                <a download="HABILIDADES DIRECTIVAS.pdf" href="Temarios\8 SEMESTRE\Habilidades Directivas.pdf">
+                <a href="Temarios\8 SEMESTRE\Habilidades Directivas.pdf" target="_blank">
                     <div class="movilmateria">
                         <div class="hoverable">
                             <div class="movilnombre">
@@ -5353,7 +5353,7 @@
                 <br>
                 <br>
                 <div class="movilcontenedortemario">
-                    <span class="temario"><a download="8 SEMESTRE.zip" href="Temarios\8 SEMESTRE.zip">Temario</a></span>
+                    <span class="temario"><a download="8 SEMESTRE.zip" href="Temarios\8 SEMESTRE.zip">Descargar Temario</a></span>
                     <br>
                     <!-- <span class="sinopsis"><a href="#!">Sinopsis</a></span> -->
                 </div>
@@ -5392,7 +5392,7 @@
                     <div id="movilhexagonomargenfondogris3">
                     </div>
                 </div>
-                <a download="MINERÍA DE DATOS.pdf" href="Temarios\9 SEMESTRE\Minería de Datos.pdf">
+                <a href="Temarios\9 SEMESTRE\Minería de Datos.pdf" target="_blank">
                     <div class="movilmateria">
                         <div class="hoverable">
                             <div class="movilnombre">
@@ -5426,7 +5426,7 @@
                     <div id="movilhexagonomargenfondogris3">
                     </div>
                 </div>
-                <a download="INTELIGENCIA ARTIFICIAL.pdf" href="Temarios\9 SEMESTRE\Inteligencia Artificial.pdf">
+                <a href="Temarios\9 SEMESTRE\Inteligencia Artificial.pdf" target="_blank">
                     <div class="movilmateria">
                         <div class="hoverable">
                             <div class="movilnombre">
@@ -5460,7 +5460,7 @@
                     <div id="movilhexagonomargenfondogris3">
                     </div>
                 </div>
-                <a download="SEGURIDAD INFORMÁTICA.pdf" href="Temarios\9 SEMESTRE\Seguridad Informática.pdf">
+                <a href="Temarios\9 SEMESTRE\Seguridad Informática.pdf" target="_blank">
                     <div class="movilmateria">
                         <div class="hoverable">
                             <div class="movilnombre">
@@ -5543,7 +5543,7 @@
                 <br>
                 <br>
                 <div class="movilcontenedortemario">
-                    <span class="temario"><a download="9 SEMESTRE.zip" href="Temarios\9 SEMESTRE.zip">Temario</a></span>
+                    <span class="temario"><a download="9 SEMESTRE.zip" href="Temarios\9 SEMESTRE.zip">Descargar Temario</a></span>
                     <br>
                     <!-- <span class="sinopsis"><a href="#!">Sinopsis</a></span> -->
                 </div>
@@ -5647,7 +5647,7 @@
                     <div id="movilhexagonomargenfondonaranja3">
                     </div>
                 </div>
-                <a download="TEMAS ESPECIALES DE COMPUTACIÓN 1.pdf" href="Temarios\10 SEMESTRE (OPTATIVAS)\Temas Especiales de Computación 1.pdf">
+                <a target="_blank" href="Temarios\10 SEMESTRE (OPTATIVAS)\Temas Especiales de Computación 1.pdf">
                     <div class="movilmateria">
                         <div class="hoverable">
                             <div class="movilnombre">
@@ -5680,7 +5680,7 @@
                     <div id="movilhexagonomargenfondonaranja3">
                     </div>
                 </div>
-                <a download="MOVILIDAD 1.pdf" href="Temarios\10 SEMESTRE (OPTATIVAS)\Movilidad 1.pdf">
+                <a target="_blank" href="Temarios\10 SEMESTRE (OPTATIVAS)\Movilidad 1.pdf">
                     <div class="movilmateria">
                         <div class="movilhoverable">
                             <div class="movilnombre">
@@ -5715,7 +5715,7 @@
                     <div id="movilhexagonomargenfondonaranja3">
                     </div>
                 </div>
-                <a download="GRAFICACIÓN POR COMPUTADORA.pdf" href="Temarios\10 SEMESTRE (OPTATIVAS)\Graficación por Computadora.pdf">
+                <a target="_blank" href="Temarios\10 SEMESTRE (OPTATIVAS)\Graficación por Computadora.pdf">
                     <div class="movilmateria">
                         <div class="hoverable">
                             <div class="movilnombre">
@@ -5768,7 +5768,7 @@
                     <div id="movilhexagonomargenfondogris3">
                     </div>
                 </div>
-                <a download="TEMAS ESPECIALES DE COMPUTACIÓN 2.pdf" href="Temarios\11 SEMESTRE (OPTATIVAS)\Temas Especiales de Computación 2.pdf">
+                <a target="_blank" href="Temarios\11 SEMESTRE (OPTATIVAS)\Temas Especiales de Computación 2.pdf">
                     <div class="movilmateria">
                         <div class="hoverable">
                             <div class="movilnombre">
@@ -5801,7 +5801,7 @@
                     <div id="movilhexagonomargenfondonaranja3">
                     </div>
                 </div>
-                <a download="MOVILIDAD 2.pdf" href="Temarios\11 SEMESTRE (OPTATIVAS)\Movilidad 2.pdf">
+                <a target="_blank" href="Temarios\11 SEMESTRE (OPTATIVAS)\Movilidad 2.pdf">
                     <div class="movilmateria">
                         <div class="hoverable">
                             <div class="movilnombre">
@@ -5836,7 +5836,7 @@
                     <div id="movilhexagonomargenfondonaranja3">
                     </div>
                 </div>
-                <a download="MODELADO Y SIMULACIÓN.pdf" href="Temarios\11 SEMESTRE (OPTATIVAS)\Modelado y Simulación.pdf">
+                <a target="_blank" href="Temarios\11 SEMESTRE (OPTATIVAS)\Modelado y Simulación.pdf">
                     <div class="movilmateria">
                         <div class="movilhoverable">
                             <div class="movilnombre">
@@ -5870,7 +5870,7 @@
                     <div id="movilhexagonomargenfondonaranja3">
                     </div>
                 </div>
-                <a download="INSTRUMENTACIÓN Y CONTROL.pdf" href="Temarios\11 SEMESTRE (OPTATIVAS)\Instrumentación y Control.pdf">
+                <a target="_blank" href="Temarios\11 SEMESTRE (OPTATIVAS)\Instrumentación y Control.pdf">
                     <div class="movilmateria">
                         <div class="hoverable">
                             <div class="movilnombre">
@@ -5904,7 +5904,7 @@
                     <div id="movilhexagonomargenfondonaranja3">
                     </div>
                 </div>
-                <a download="ADQUISICIÓN DE DATOS.pdf" href="Temarios\11 SEMESTRE (OPTATIVAS)\Adquisición de Datos.pdf">
+                <a target="_blank" href="Temarios\11 SEMESTRE (OPTATIVAS)\Adquisición de Datos.pdf">
                     <div class="movilmateria">
                         <div class="hoverable">
                             <div class="movilnombre">
@@ -5939,7 +5939,7 @@
                     <div id="movilhexagonomargenfondonaranja3">
                     </div>
                 </div>
-                <a download="PROGRAMACIÓN DE VIDEOJUEGOS 1.pdf" href="Temarios\11 SEMESTRE (OPTATIVAS)\Programación de Videojuegos 1.pdf">
+                <a target="_blank" href="Temarios\11 SEMESTRE (OPTATIVAS)\Programación de Videojuegos 1.pdf">
                     <div class="movilmateria">
                         <div class="hoverable">
                             <div class="movilnombre">
@@ -5990,7 +5990,7 @@
                     <div id="movilhexagonomargenfondonaranja3">
                     </div>
                 </div>
-                <a download="TEMAS ESPECIALES DE COMPUTACIÓN 3.pdf" href="Temarios\12 SEMESTRE (OPTATIVAS)\Temas Especiales de Computación 3.pdf">
+                <a target="_blank" href="Temarios\12 SEMESTRE (OPTATIVAS)\Temas Especiales de Computación 3.pdf">
                     <div class="movilmateria">
                         <div class="hoverable">
                             <div class="movilnombre">
@@ -6023,7 +6023,7 @@
                     <div id="movilhexagonomargenfondonaranja3">
                     </div>
                 </div>
-                <a download="MOVILIDAD 3.pdf" href="Temarios\12 SEMESTRE (OPTATIVAS)\Movilidad 3.pdf">
+                <a target="_blank" href="Temarios\12 SEMESTRE (OPTATIVAS)\Movilidad 3.pdf">
                     <div class="movilmateria">
                         <div class="hoverable">
                             <div class="movilnombre">
@@ -6058,7 +6058,7 @@
                     <div id="movilhexagonomargenfondonaranja3">
                     </div>
                 </div>
-                <a download="PROCESAMIENTO DIGITAL DE IMÁGENES.pdf" href="Temarios\12 SEMESTRE (OPTATIVAS)\Procesamiento Digital de Imágenes.pdf">
+                <a target="_blank" href="Temarios\12 SEMESTRE (OPTATIVAS)\Procesamiento Digital de Imágenes.pdf">
                     <div class="movilmateria">
                         <div class="hoverable">
                             <div class="movilnombre">
@@ -6091,7 +6091,7 @@
                     <div id="movilhexagonomargenfondonaranja3">
                     </div>
                 </div>
-                <a download="ROBÓTICA.pdf" href="Temarios\12 SEMESTRE (OPTATIVAS)\Robótica.pdf">
+                <a target="_blank" href="Temarios\12 SEMESTRE (OPTATIVAS)\Robótica.pdf">
                     <div class="movilmateria">
                         <div class="hoverable">
                             <div class="movilnombre">
@@ -6126,7 +6126,7 @@
                     <div id="movilhexagonomargenfondonaranja3">
                     </div>
                 </div>
-                <a download="PROCESAMIENTO DIGITAL DE SEÑALES.pdf" href="Temarios\12 SEMESTRE (OPTATIVAS)\Procesamiento Digital de Señales.pdf">
+                <a target="_blank" href="Temarios\12 SEMESTRE (OPTATIVAS)\Procesamiento Digital de Señales.pdf">
                     <div class="movilmateria">
                         <div class="movilhoverable">
                             <div class="movilnombre">
@@ -6159,7 +6159,7 @@
                     <div id="movilhexagonomargenfondonaranja3">
                     </div>
                 </div>
-                <a download="PROGRAMACIÓN DE VIDEOJUEGOS 2.pdf" href="Temarios\12 SEMESTRE (OPTATIVAS)\Programación de Videojuegos 2.pdf">
+                <a target="_blank" href="Temarios\12 SEMESTRE (OPTATIVAS)\Programación de Videojuegos 2.pdf">
                     <div class="movilmateria">
                         <div class="movilhoverable">
                             <div class="movilnombre">
@@ -6192,7 +6192,7 @@
                     <div id="movilhexagonomargenfondonaranja3">
                     </div>
                 </div>
-                <a download="TEMAS ESPECIALES DE COMPUTACIÓN 4.pdf" href="Temarios\12 SEMESTRE (OPTATIVAS)\Temas Especiales de Computación 4.pdf">
+                <a target="_blank" href="Temarios\12 SEMESTRE (OPTATIVAS)\Temas Especiales de Computación 4.pdf">
                     <div class="movilmateria">
                         <div class="hoverable">
                             <div class="movilnombre">
@@ -6225,7 +6225,7 @@
                     <div id="movilhexagonomargenfondonaranja3">
                     </div>
                 </div>
-                <a download="MOVILIDAD 4.pdf" href="Temarios\12 SEMESTRE (OPTATIVAS)\Movilidad 4.pdf">
+                <a target="_blank"href="Temarios\12 SEMESTRE (OPTATIVAS)\Movilidad 4.pdf">
                     <div class="movilmateria">
                         <div class="hoverable">
                             <div class="movilnombre">
@@ -6260,7 +6260,7 @@
                     <div id="movilhexagonomargenfondonaranja3">
                     </div>
                 </div>
-                <a download="PROYECTO ESCUELA INDUSTRIA.pdf" href="Temarios\12 SEMESTRE (OPTATIVAS)\Proyecto Escuela Industria.pdf">
+                <a target="_blank" href="Temarios\12 SEMESTRE (OPTATIVAS)\Proyecto Escuela Industria.pdf">
                     <div class="movilmateria">
                         <div class="hoverable">
                             <div class="movilnombre">
@@ -6293,7 +6293,7 @@
                     <div id="movilhexagonomargenfondonaranja3">
                     </div>
                 </div>
-                <a download="ADMINISTRACIÓN DE SISTEMAS MULTIUSUARIO.pdf" href="Temarios\12 SEMESTRE (OPTATIVAS)\Administración de Sistemas Multiusuario.pdf">
+                <a target="_blank" href="Temarios\12 SEMESTRE (OPTATIVAS)\Administración de Sistemas Multiusuario.pdf">
                     <div class="movilmateria">
                         <div class="hoverable">
                             <div class="movilnombre">
@@ -6326,7 +6326,7 @@
                     <div id="movilhexagonomargenfondonaranja3">
                     </div>
                 </div>
-                <a download="TEMAS ESPECIALES DE PROGRAMACIÓN 1.pdf" href="Temarios\12 SEMESTRE (OPTATIVAS)\Temas Especiales de Programación 1.pdf">
+                <a target="_blank" href="Temarios\12 SEMESTRE (OPTATIVAS)\Temas Especiales de Programación 1.pdf">
                     <div class="movilmateria">
                         <div class="hoverable">
                             <div class="movilnombre">
@@ -6379,7 +6379,7 @@
                         <div id="movilhexagonomargenfondogris3">
                         </div>
                     </div>
-                    <a download="TEMAS ESPECIALES DE COMPUTACIÓN 5.pdf" href="Temarios\13 SEMESTRE (OPTATIVAS)\Temas Especiales de Computación 5.pdf">
+                    <a target="_blank" href="Temarios\13 SEMESTRE (OPTATIVAS)\Temas Especiales de Computación 5.pdf">
                         <div class="movilmateria">
                             <div class="hoverable">
                                 <div class="movilnombre">
@@ -6412,7 +6412,7 @@
                         <div id="movilhexagonomargenfondonaranja3">
                         </div>
                     </div>
-                    <a download="MOVILIDAD 5.pdf" href="Temarios\13 SEMESTRE (OPTATIVAS)\Movilidad 5.pdf">
+                    <a target="_blank" href="Temarios\13 SEMESTRE (OPTATIVAS)\Movilidad 5.pdf">
                         <div class="movilmateria">
                             <div class="hoverable">
                                 <div class="movilnombre">
@@ -6447,7 +6447,7 @@
                         <div id="movilhexagonomargenfondonaranja3">
                         </div>
                     </div>
-                    <a download="RECONOCIMIENTO DE PATRONES.pdf" href="Temarios\13 SEMESTRE (OPTATIVAS)\Reconocimiento de Patrones.pdf">
+                    <a target="_blank" href="Temarios\13 SEMESTRE (OPTATIVAS)\Reconocimiento de Patrones.pdf">
                         <div class="movilmateria">
                             <div class="hoverable">
                                 <div class="movilnombre">
@@ -6481,7 +6481,7 @@
                         <div id="movilhexagonomargenfondonaranja3">
                         </div>
                     </div>
-                    <a download="CÓMPUTO EN LA NUBE.pdf" href="Temarios\13 SEMESTRE (OPTATIVAS)\Cómputo en la Nube.pdf">
+                    <a target="_blank" href="Temarios\13 SEMESTRE (OPTATIVAS)\Cómputo en la Nube.pdf">
                         <div class="movilmateria">
                             <div class="hoverable">
                                 <div class="movilnombre">
@@ -6515,7 +6515,7 @@
                         <div id="movilhexagonomargenfondonaranja3">
                         </div>
                     </div>
-                    <a download="BIOINGENIERÍA.pdf" href="Temarios\13 SEMESTRE (OPTATIVAS)\Bioingeniería.pdf">
+                    <a target="_blank" href="Temarios\13 SEMESTRE (OPTATIVAS)\Bioingeniería.pdf">
                         <div class="movilmateria">
                             <div class="hoverable">
                                 <div class="movilnombre">
@@ -6550,7 +6550,7 @@
                         <div id="movilhexagonomargenfondonaranja3">
                         </div>
                     </div>
-                    <a download="TEMAS ESPECIALES DE PROGRAMACIÓN 2.pdf" href="Temarios\13 SEMESTRE (OPTATIVAS)\Temas Especiales de Programación 2.pdf">
+                    <a target="_blank" href="Temarios\13 SEMESTRE (OPTATIVAS)\Temas Especiales de Programación 2.pdf">
                         <div class="movilmateria">
                             <div class="hoverable">
                                 <div class="movilnombre">
@@ -6582,7 +6582,7 @@
                         <div id="movilhexagonomargenfondogris3">
                         </div>
                     </div>
-                    <a download="TEMAS ESPECIALES DE COMPUTACIÓN 6.pdf" href="Temarios\13 SEMESTRE (OPTATIVAS)\Temas Especiales de Computación 6.pdf">
+                    <a target="_blank" href="Temarios\13 SEMESTRE (OPTATIVAS)\Temas Especiales de Computación 6.pdf">
                         <div class="movilmateria">
                             <div class="movilhoverable">
                                 <div class="movilnombre">
@@ -6615,7 +6615,7 @@
                         <div id="movilhexagonomargenfondonaranja3">
                         </div>
                     </div>
-                    <a download="MOVILIDAD 6.pdf" href="Temarios\13 SEMESTRE (OPTATIVAS)\Movilidad 6.pdf">
+                    <a target="_blank" href="Temarios\13 SEMESTRE (OPTATIVAS)\Movilidad 6.pdf">
                         <div class="movilmateria">
                             <div class="movilhoverable">
                                 <div class="movilnombre">
@@ -6650,7 +6650,7 @@
                         <div id="movilhexagonomargenfondonaranja3">
                         </div>
                     </div>
-                    <a download="VISUALIZACIÓN.pdf" href="Temarios\13 SEMESTRE (OPTATIVAS)\Visualización.pdf">
+                    <a target="_blank" href="Temarios\13 SEMESTRE (OPTATIVAS)\Visualización.pdf">
                         <div class="movilmateria">
                             <div class="hoverable">
                                 <div class="movilnombre">
@@ -6685,7 +6685,7 @@
                         <div id="movilhexagonomargenfondonaranja3">
                         </div>
                     </div>
-                    <a download="CÓMPUTO DISTRIBUIDO Y PARALELO.pdf" href="Temarios\13 SEMESTRE (OPTATIVAS)\Cómputo Distribuido y Paralelo.pdf">
+                    <a target="_blank" href="Temarios\13 SEMESTRE (OPTATIVAS)\Cómputo Distribuido y Paralelo.pdf">
                         <div class="movilmateria">
                             <div class="hoverable">
                                 <div class="movilnombre">
@@ -6718,7 +6718,7 @@
                         <div id="movilhexagonomargenfondonaranja3">
                         </div>
                     </div>
-                    <a download="INTERNET DE LAS COSAS.pdf" href="Temarios\13 SEMESTRE (OPTATIVAS)\Internet de las Cosas.pdf">
+                    <a target="_blank" href="Temarios\13 SEMESTRE (OPTATIVAS)\Internet de las Cosas.pdf">
                         <div class="movilmateria">
                             <div class="movilhoverable">
                                 <div class="movilnombre">
@@ -6752,7 +6752,7 @@
                         <div id="movilhexagonomargenfondonaranja3">
                         </div>
                     </div>
-                    <a download="TEMAS ESPECIALES DE BASE DE DATOS.pdf" href="Temarios\13 SEMESTRE (OPTATIVAS)\Temas Especiales de Bases de Datos.pdf">
+                    <a target="_blank" href="Temarios\13 SEMESTRE (OPTATIVAS)\Temas Especiales de Bases de Datos.pdf">
                         <div class="movilmateria">
                             <div class="movilhoverable">
                                 <div class="movilnombre">
@@ -6785,7 +6785,7 @@
                         <div id="movilhexagonomargenfondogris3">
                         </div>
                     </div>
-                    <a download="SEMINARIO INGENIERÍA EN COMPUTACIÓN.pdf" href="Temarios\13 SEMESTRE (OPTATIVAS)\Seminario de Ingeniería en Computación.pdf">
+                    <a target="_blank" href="Temarios\13 SEMESTRE (OPTATIVAS)\Seminario de Ingeniería en Computación.pdf">
                         <div class="movilmateria">
                             <div class="movilhoverable">
                                 <div class="movilnombre">
@@ -6818,7 +6818,7 @@
                         <div id="movilhexagonomargenfondonaranja3">
                         </div>
                     </div>
-                    <a download="VINCULACIÓN EMPRESARIAL.pdf" href="Temarios\13 SEMESTRE (OPTATIVAS)\Vinculación empresarial.pdf">
+                    <a target="_blank" href="Temarios\13 SEMESTRE (OPTATIVAS)\Vinculación empresarial.pdf">
                         <div class="movilmateria">
                             <div class="hoverable">
                                 <div class="movilnombre">
@@ -6852,7 +6852,7 @@
                         <div id="movilhexagonomargenfondonaranja3">
                         </div>
                     </div>
-                    <a download="TEMAS ESPECIALES DE REDES.pdf" href="Temarios\13 SEMESTRE (OPTATIVAS)\Temas Especiales de Redes.pdf">
+                    <a target="_blank" href="Temarios\13 SEMESTRE (OPTATIVAS)\Temas Especiales de Redes.pdf">
                         <div class="movilmateria">
                             <div class="hoverable">
                                 <div class="movilnombre">
@@ -6886,7 +6886,7 @@
                         <div id="movilhexagonomargenfondonaranja3">
                         </div>
                     </div>
-                    <a download="TEMAS ESPECIALES DE SEGURIDAD INFORMÁTICA.pdf" href="Temarios\13 SEMESTRE (OPTATIVAS)\Temas Especiales de Seguridad Informática.pdf">
+                    <a target="_blank" href="Temarios\13 SEMESTRE (OPTATIVAS)\Temas Especiales de Seguridad Informática.pdf">
                         <div class="movilmateria">
                             <div class="hoverable">
                                 <div class="movilnombre">
@@ -6919,7 +6919,7 @@
                         <div id="movilhexagonomargenfondonaranja3">
                         </div>
                     </div>
-                    <a download="TEMAS ESPECIALES DE HARDWARE.pdf" href="Temarios\13 SEMESTRE (OPTATIVAS)\Temas Especiales de Hardware.pdf">
+                    <a target="_blank" href="Temarios\13 SEMESTRE (OPTATIVAS)\Temas Especiales de Hardware.pdf">
                         <div class="movilmateria">
                             <div class="hoverable">
                                 <div class="movilnombre">
@@ -6953,7 +6953,7 @@
                         <div id="movilhexagonomargenfondonaranja3">
                         </div>
                     </div>
-                    <a download="ANÁLISIS DE MACRODATOS.pdf" href="Temarios\13 SEMESTRE (OPTATIVAS)\Análisis de Macrodatos.pdf">
+                    <a target="_blank" href="Temarios\13 SEMESTRE (OPTATIVAS)\Análisis de Macrodatos.pdf">
                         <div class="movilmateria">
                             <div class="hoverable">
                                 <div class="movilnombre">
@@ -6986,7 +6986,7 @@
                         <div id="movilhexagonomargenfondonaranja3">
                         </div>
                     </div>
-                    <a download="APRENDIZAJE AUTOMÁTICO.pdf" href="Temarios\13 SEMESTRE (OPTATIVAS)\Aprendizaje Automático.pdf">
+                    <a target="_blank" href="Temarios\13 SEMESTRE (OPTATIVAS)\Aprendizaje Automático.pdf">
                         <div class="movilmateria">
                             <div class="hoverable">
                                 <div class="movilnombre">
@@ -7019,7 +7019,7 @@
                         <div id="movilhexagonomargenfondonaranja3">
                         </div>
                     </div>
-                    <a download="SISTEMAS EXPERTOS.pdf" href="Temarios\13 SEMESTRE (OPTATIVAS)\Sistemas Expertos.pdf">
+                    <a target="_blank" href="Temarios\13 SEMESTRE (OPTATIVAS)\Sistemas Expertos.pdf">
                         <div class="movilmateria">
                             <div class="hoverable">
                                 <div class="movilnombre">
@@ -7053,7 +7053,7 @@
                         <div id="movilhexagonomargenfondonaranja3">
                         </div>
                     </div>
-                    <a download="PROGRAMACIÓN MÓVIL 2.pdf" href="Temarios\13 SEMESTRE (OPTATIVAS)\Programación Móvil 2.pdf">
+                    <a target="_blank" href="Temarios\13 SEMESTRE (OPTATIVAS)\Programación Móvil 2.pdf">
                         <div class="movilmateria">
                             <div class="hoverable">
                                 <div class="movilnombre">
